@@ -1,0 +1,13 @@
+c:\users\shoikat\documents\visual studio 2017\Projects\UniversityManagmentSystem\UniversityManagmentSystem\bin\Debug\UniversityManagmentSystem.exe.config
+c:\users\shoikat\documents\visual studio 2017\Projects\UniversityManagmentSystem\UniversityManagmentSystem\bin\Debug\UniversityManagmentSystem.exe
+c:\users\shoikat\documents\visual studio 2017\Projects\UniversityManagmentSystem\UniversityManagmentSystem\bin\Debug\UniversityManagmentSystem.pdb
+c:\users\shoikat\documents\visual studio 2017\Projects\UniversityManagmentSystem\UniversityManagmentSystem\obj\Debug\UniversityManagmentSystem.csprojResolveAssemblyReference.cache
+c:\users\shoikat\documents\visual studio 2017\Projects\UniversityManagmentSystem\UniversityManagmentSystem\obj\Debug\UniversityManagmentSystem.Properties.Resources.resources
+c:\users\shoikat\documents\visual studio 2017\Projects\UniversityManagmentSystem\UniversityManagmentSystem\obj\Debug\UniversityManagmentSystem.csproj.GenerateResource.Cache
+c:\users\shoikat\documents\visual studio 2017\Projects\UniversityManagmentSystem\UniversityManagmentSystem\obj\Debug\UniversityManagmentSystem.exe
+c:\users\shoikat\documents\visual studio 2017\Projects\UniversityManagmentSystem\UniversityManagmentSystem\obj\Debug\UniversityManagmentSystem.pdb
+C:\Users\SHOIKAT\documents\visual studio 2017\Projects\UniversityManagmentSystem\UniversityManagmentSystem\obj\Debug\UniversityManagmentSystem.AdmissionForm.resources
+C:\Users\SHOIKAT\documents\visual studio 2017\Projects\UniversityManagmentSystem\UniversityManagmentSystem\obj\Debug\UniversityManagmentSystem.LoginForm.resources
+C:\Users\SHOIKAT\documents\visual studio 2017\Projects\UniversityManagmentSystem\UniversityManagmentSystem\obj\Debug\UniversityManagmentSystem.ManageStudentsForm.resources
+C:\Users\SHOIKAT\documents\visual studio 2017\Projects\UniversityManagmentSystem\UniversityManagmentSystem\obj\Debug\UniversityManagmentSystem.StudentAdmissionForm.resources
+C:\Users\SHOIKAT\documents\visual studio 2017\Projects\UniversityManagmentSystem\UniversityManagmentSystem\obj\Debug\UniversityManagmentSystem.ValidationForm.resources
